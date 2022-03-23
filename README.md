@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi there, I'm Jhonatan Rivera 👋
+<h3 align="center"><a href="mailto:jhonatan.rivera.pr@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<a href='./Jhonatan_Rivera.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
+  
+  
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonaRiver&show_icons=true&locale=en&layout=compact&theme=radical" alt="jhonaRiver" width=360 height=180/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonaRiver&show_icons=true&theme=radical" alt="jhonaRiver" width=420 height=180/>
+</p>
 <!--
 **jhonaRiver/jhonaRiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
