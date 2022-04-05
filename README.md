@@ -23,6 +23,9 @@
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
 <a href="https://github.com/jhonaRiver/holbertonschool-higher_level_programming">
+  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</a>
+<a href="https://github.com/jhonaRiver/holbertonschool-higher_level_programming">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
 <a href="https://github.com/jhonaRiver/">
@@ -32,6 +35,23 @@
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 </a>
 <br><br>
+
+<h3 align="center">Most used Repositories</h3>
+
+| Repository | Description |
+| --- | --- |
+| [ holbertonschool-higher_level_programming](https://github.com/jhonaRiver/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
+| [ holbertonschool-low_level_programming](https://github.com/jhonaRiver/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [ holbertonschool-system_engineering-devops](https://github.com/jhonaRiver/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+
+<h3 align="center"><br>Major projects worked on at school, in order:</h3> 
+  
+| Project name | Description |
+| --- | --- |
+|[Printf](https://github.com/jhonaRiver/printf)| This program is designed to mimic the printf function in C.|
+|[Simple_Shell](https://github.com/jhonaRiver/simple_shell)| This program is designed to mimic the abilities of a simple shell. |
+|[Monty](https://github.com/jhonaRiver/monty) | Stacks, Queues - LIFO, FIFO |
+|[AirBnB Clone](https://github.com/jhonaRiver/AirBnB_clone)| Project in process, the goal is to make a complete web application, integrating MySQL storage, a back-end JSON API, and front-end interface in a clone of AirBnB. And a console interpreter to work with the classes and interact with the DB and JSON storages|
 
 <p align="center"> <br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonaRiver&show_icons=true&locale=en&layout=compact&theme=radical" alt="jhonaRiver" width=360 height=180/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonaRiver&show_icons=true&theme=radical" alt="jhonaRiver" width=420 height=180/>
