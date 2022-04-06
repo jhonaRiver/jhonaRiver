@@ -49,7 +49,7 @@
 | Project name | Description |
 | --- | --- |
 |[Printf](https://github.com/jhonaRiver/printf)| This program is designed to mimic the printf function in C.|
-|[Simple_Shell](https://github.com/jhonaRiver/simple_shell)| This program is designed to mimic the abilities of a simple shell. |
+|[Simple_Shell](https://github.com/gabriel337/simple_shell)| This program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/jhonaRiver/monty) | Stacks, Queues - LIFO, FIFO |
 |[AirBnB Clone](https://github.com/jhonaRiver/AirBnB_clone)| Project in process, the goal is to make a complete web application, integrating MySQL storage, a back-end JSON API, and front-end interface in a clone of AirBnB. And a console interpreter to work with the classes and interact with the DB and JSON storages|
 
