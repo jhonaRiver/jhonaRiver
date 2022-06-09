@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jhonatan Rivera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">Hi there, I'm Jhonatan Rivera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
 
 <h3 align="center"><a href="mailto:jhonatan.rivera.pr@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='./Jhonatan_Rivera.pdf'><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
