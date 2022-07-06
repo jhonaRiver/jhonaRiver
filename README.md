@@ -51,7 +51,8 @@
 |[Printf](https://github.com/jhonaRiver/printf)| This program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/gabriel337/simple_shell)| This program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/luiscolon0426/monty) | Stacks, Queues - LIFO, FIFO |
-|[AirBnB Clone](https://github.com/jhonaRiver/AirBnB_clone)| Project in process, the goal is to make a complete web application, integrating MySQL storage, a back-end JSON API, and front-end interface in a clone of AirBnB. And a console interpreter to work with the classes and interact with the DB and JSON storages|
+|[AirBnB Clone](https://github.com/jhonaRiver/AirBnB_clone_v4)| HolbertonBnB is a complete web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. And a console interpreter to work with the classes and that interacts with both, the DB and JSON storages|
+| [SIM](https://github.com/luiscolon0426/SIM) | SIM is a windows application that lets you easily manage your sales and inventory, designed for small businesses |
 
 <p align="center"> <br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonaRiver&show_icons=true&locale=en&layout=compact&theme=radical" alt="jhonaRiver" width=360 height=180/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonaRiver&show_icons=true&theme=radical" alt="jhonaRiver" width=420 height=180/>
