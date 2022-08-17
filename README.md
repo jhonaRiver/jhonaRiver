@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/jhonatan-rivera-cruz-242144222/"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
 </h3>
 
-<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/>
-<li>🔭 I’m currently on the third Trimester of my foundations year at Holberton School PR working as a Student Tutor <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
+<li>🔭 I'm a Software Engineer graduated from Foundations year at Holberton School PR and currently on the Specialization year, working as a Student Tutor <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/>
+<li> :seedling: I’m currently learning Mathematics, Supervised Learning, Unsupervised Learning and Reinforcement Learning, among other topics related to my Machine Learning Specialization </li><br/><br/>
 
 <h3>Languages and tools that I have been learning:</h3>
 
@@ -43,6 +43,7 @@
 | [ holbertonschool-higher_level_programming](https://github.com/jhonaRiver/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
 | [ holbertonschool-low_level_programming](https://github.com/jhonaRiver/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
 | [ holbertonschool-system_engineering-devops](https://github.com/jhonaRiver/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+| [ holbertonschool-machine_learning](https://github.com/jhonaRiver/holbertonschool-machine_learning) | Python3, Object-Oriented Programming, NumPy, MatPlotLib, Supervised/Unsupervised Learning |
 
 <h3 align="center"><br>Major projects worked on at school, in order:</h3> 
   
