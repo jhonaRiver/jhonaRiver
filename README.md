@@ -86,5 +86,4 @@
 | [SIM](https://github.com/luiscolon0426/SIM) | SIM is a windows application that lets you easily manage your sales and inventory, designed for small businesses |
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jhonaRiver&show_icons=true&locale=en&layout=compact&theme=radical)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=jhonaRiver&show_icons=true&theme=radical)
