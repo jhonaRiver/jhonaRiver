@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/jhonatan-rivera-cruz-242144222/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </h3>
 
+![Views](https://komarev.com/ghpvc/?username=jhonaRiver&style=for-the-badge)
+
 <li>🔭 I'm a Software Engineer graduated from Foundations year at Holberton School PR and currently on the Machine Learning Specialization year, working as a Student Tutor <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/>
 <li> :seedling: I’m currently learning Mathematics, Supervised, Unsupervised and Reinforcement Learning, among other topics related to my Machine Learning Specialization </li><br/><br/>
 
