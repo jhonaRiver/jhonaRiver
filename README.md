@@ -12,7 +12,7 @@
 
 * Full Stack Software Engineer graduated from Holberton School PR and currently enrolled on the Machine Learning Specialization while working as a Student Tutor
 
-* Currently learning Mathematics, Supervised, Unsupervised and Reinforcement Learning, among other topics related to my Machine Learning Specialization
+* Currently learning Mathematics, Supervised, Unsupervised and Reinforcement Learning, among other topics related to my Machine Learning Specialization and React
 
 ## Languages
 
