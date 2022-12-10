@@ -8,7 +8,7 @@
 
 ## About Me
 
-* Full Stack Developer at Wihom
+* Full Stack Developer at Wihom (October 2022 - December 2022)
 
 * Full Stack Software Engineer graduated from Holberton School PR and currently enrolled on the Machine Learning Specialization while working as a Student Tutor
 
