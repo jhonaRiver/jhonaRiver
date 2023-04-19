@@ -8,7 +8,7 @@
 
 ## About Me
 
-* Software Engineer and Education Lead at Holberton (April 2023 - Present)
+* Software Engineer and Education Lead at Holberton Coding School PR (April 2023 - Present)
 
 * Software Engineer at Cooperton (December 2022 - April 2023)
 
