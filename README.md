@@ -8,13 +8,13 @@
 
 ## About Me
 
+* ML Engineer graduated from Holberton Coding School
+
 * Software Engineer and Education Lead at Holberton Coding School PR (April 2023 - Present)
 
 * Software Engineer at Cooperton (December 2022 - April 2023)
 
 * Full Stack Developer at Wihom (October 2022 - December 2022)
-
-* Full Stack Software Engineer graduated from Holberton Coding School PR and currently enrolled on the Machine Learning Specialization
 
 * Currently learning Mathematics, Supervised, Unsupervised and Reinforcement Learning, among other topics related to my Machine Learning Specialization
 
