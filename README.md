@@ -16,8 +16,6 @@
 
 * Full Stack Developer at Wihom (October 2022 - December 2022)
 
-* Currently learning mobile development using Flutter
-
 ## Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
